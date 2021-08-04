@@ -1,0 +1,40 @@
+.inscrn{
+    font-size: 500px;
+    font-style: oblique;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 0px;
+    color: white ;
+}
+.under{
+    color: rgb(253, 253, 253);
+    text-align: center;
+    display: inline;
+    font-size: 30px;
+}
+.bg{
+   padding: 200px;
+}
+.ft{
+    padding: 700;
+}
+/* About Page  */
+
+   .jumbotron{
+       padding: 200px;
+       text-align: center;
+       background-image: url(images/Skyscrapers.jpg);
+       background-color: rgb(128, 128, 128);
+       background-blend-mode: multiply;
+   }
+   .about_txt{
+       color: white;
+       text-align: justify;
+   }
+   p1{
+       color: white;    
+   }
+   h1.Comment{
+       color: white;
+   }
+  
